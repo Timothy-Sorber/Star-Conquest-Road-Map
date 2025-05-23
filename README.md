@@ -1,4 +1,4 @@
-# Star-Conquest-Road-Map
+# Star Conquest Roadmap
 
 Star conquest versions have a Release, Major, and Minor version (RE.MA.MI).
 
