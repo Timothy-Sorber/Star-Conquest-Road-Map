@@ -28,7 +28,7 @@ Star conquest currently costs 200 robux, this price will go up as development pr
   * Does not affect planets that were previously unowned
 
 ## Version 2
-### IN-DEVELOPMENT
+### RELEASING SOON
 * Basic resource management (Steel, Copper, Magnesium)
   * Mine resources on planets that contain them
   * Used to build buildings and construct ships
