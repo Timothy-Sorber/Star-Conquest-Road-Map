@@ -38,7 +38,7 @@ Star conquest currently costs 200 robux, this price will go up as development pr
   * Current one sucks
 * More buildings (Mine, Defense)
   * Mines mine resources
-  * Defense (name undecided) will defend key locations
+  * Defense will defend using lasers
 * Better lobby management
   * Ability to edit options after creation
   * Private lobbies (requires password)
